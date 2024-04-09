@@ -3,6 +3,9 @@ A list of **Free** and **Open Source Software** (**FOSS**) for **Android**
 
 ## – Apps –
 
+### • Accessibility
+* [**gkd**](https://github.com/gkd-kit/gkd)
+
 ### • Ad Blocker
 * [**ad-free**](https://github.com/abertschi/ad-free)
 * [**AdAid**](https://github.com/NikLeberg/AdAid)
